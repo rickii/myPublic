@@ -1,0 +1,13 @@
+
+Trying to setup gradle but cant find gradle home
+https://github.com/rickii/myPublic.git
+
+~/comp391_web
+/home/ric/.gradle
+/usr/lib/gradle
+gradle: 
+/usr/bin/gradle 
+/usr/lib/gradle 
+/usr/bin/X11/gradle
+
+/usr/share/gradle
