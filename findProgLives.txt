@@ -1,0 +1,9 @@
+use the which command 
+ie 
+which gradle
+
+this gives the :x
+::
+';
+
+:
